@@ -1,0 +1,54 @@
+body {
+  background: black;
+  text-align: center;
+}
+h1 {
+  font-size: 64px;
+  font-family: Impact;
+}
+h2 {
+  padding: 0 40px 0 40px;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+.page {
+  margin: 5% 10% 5% 10%;
+  background-color: #333333;
+  color: #FF0000;
+  font-family: Gadget, sans-serif;
+}
+.img1 {
+  background-color: #aaaaaa;
+  padding: 0.5em;
+}
+#pic {
+  margin: 0.5em;
+  max-width: 98%;
+}
+p {
+  font-size: 14px;
+  color: #000000;
+  margin: 0 5% 0 5%;
+}
+h3 {
+  color: white;
+}
+ul {
+  margin: 0 200px 0 250px;
+  text-align: left;
+  color: white;
+}
+.quote {
+  font-size: 1.6em;
+  color: white;
+  margin: 0 10% 0 10%;
+}
+.readmore {
+  font-size: 1.3em;
+  color: gray;
+  margin: 5%;
+}
+a {
+  text-decoration: underline;
+  color: rgb(255,10,10);
+}
